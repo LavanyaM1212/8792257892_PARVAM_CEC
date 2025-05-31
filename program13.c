@@ -1,3 +1,6 @@
+
+
+
 #include<stdio.h>
  long sum (int );
  int main()
